@@ -1,4 +1,4 @@
-🎰 Slot Machine
+## 🎰 Slot Machine
 
 A simple browser-based slot machine game built with JavaScript. 
 The player spins 3 reels, places a bet, and watches their balance update based on the outcome of each round.
