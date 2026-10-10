@@ -76,7 +76,7 @@ h1{
 .credit-wrapper{
 display: flex;
 padding: 10px;
-justify-content: space-between;
+justify-content: space-around;
 
 }
 #credit,#current,#bet{
