@@ -7,6 +7,8 @@ The player spins 3 reels, places a bet, and watches their balance update based o
 
 ![Slot Machine demo](images/slotmachine.jpg)
 
+Deployed Link -> dagmawitesfay.github.io/slot-machine/
+
 ## Features
 
 - 3 reels with multiple symbols on each reel
